@@ -1,0 +1,1 @@
+Small library to clear HTML page and make it more readable
