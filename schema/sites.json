@@ -1,0 +1,22 @@
+{
+    "gazeta.ru": {
+        "ex_elem": "",
+        "ex_class": "",
+        "in_elem": "",
+        "in_class": ["text"]
+    },
+
+    "djangoproject.com": {
+        "ex_elem": "",
+        "ex_class": ["sidebar", "billboard", "header", "footer"],
+        "in_elem": "",
+        "in_class": ""
+    },
+
+    "bbc.co.uk": {
+        "ex_elem": "",
+        "ex_class": "",
+        "in_elem": "",
+        "in_class": ["bodytext"]
+    }
+}
